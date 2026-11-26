@@ -1,0 +1,16 @@
+paper_item	analysis	scripts	evidence_role
+Figure 2; Tables 1-2; S1-S3	Primary clinical comparison and standardized risks	13-18;22;26;29	Mayo and OASIS-3; cohort-specific risk sets
+Figure 3a-c; S4A	Aligned pre-event cognition	23;29	Mayo global/memory; OASIS-3 MMSE, including nonreplication
+Figure 3d; S4B	Later structural change, no shared MRI2	22;29	At least two later outcome scans
+Figure 3e-f; S5; Figures S1-S2	Normal reassessment and confirmed impairment	24;26;28	Reversion and confirmation opportunity retained
+S6; Figures S3-S4	Secondary dementia; definition and time-varying checks	13b-21	Mayo nonproportional hazards and OASIS definition checks
+Figure 4a; S7; Figure S6	Tau and hippocampal change, stable scans and influence	01-04	Independent ADNI/HABS-HD context
+Figure 4b-d; S8A	Regional effects and paired anatomical-band contrasts	07-08	All 68 parcel estimates and multiplicity-adjusted results
+Figure 4e-f; S8B-C; Figure S5	Histology correspondence and CN age reference	33-35	2000 spins; hemisphere-specific parcel correspondence
+S9; Figure S7	Matched segmentation measurement comparison	05	Exact dated scans and participant bootstrap
+S10; Figure S8	Memory coupling and tau-associated cognitive change	06;09-12	Outcome-specific samples retained
+Figure 5a-c; S11	Same-day acquisition and two-anchor history agreement	30-32	Participant resampling preserves both anchors
+Figure 5d; S12	ICV, APOE and ventricular controls	30-32	Pre-MRI2 ICV; identical samples within comparisons
+Figure 5f; S13; Figure S9	Out-of-fold AUC, Brier and threshold net benefit	27;31	Fixed held-out predictions; no formal OOF calibration
+Figure 5e; S14	Fixed-capacity top-20-percent screening	31	1000 paired resamples; censoring-adjusted capture
+Table 1	Participant characteristics	36	Descriptive statistics in the final clinical and tau analysis populations
